@@ -19,4 +19,4 @@ $info : Untuk Menampilkan Data User
 $me : Untuk Melihat Author/Pembuat Script ini
 
 [FREE,JIKA ADA YG MENJUAL SCRIPT INI HARAP LAPOR AUTHOR]
-Fb : Faris Konten Kreator
+Fb : Fadil Konten Kreator
